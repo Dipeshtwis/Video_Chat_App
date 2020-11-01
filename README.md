@@ -41,16 +41,12 @@ $ cd Video_Chat_App
 
 ~~~
 
-##Make sure you have this 
-```
-- PeerJS
+Run `npm i` to install all requried node modules
+>npm i
 
-- otherwise run it
+Run `npm start` to start the node server
+>npm start
 
-```
-```bash
-$ npm i -g peer
-```
 ## Use simultaneously in different terminal
 
 ~~~bash
@@ -61,6 +57,7 @@ $ npm run devStart
 
 ~~~
 
+- Now you would be able to access the server at [http://127.0.0.1:3000](http://127.0.0.1:3000) by default.
 
 ## ✒️  Authors <a name = "author"></a>
 
